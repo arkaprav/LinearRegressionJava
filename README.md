@@ -4,3 +4,6 @@ It almost gives the same results as the real one but it takes a little bit more 
 It is a simple linear regression model with 1 feature and 1 target variable.
 data.csv has the features and target variables.
 using data.csv we compare the two models.
+
+javaRegressor results - 0.043316
+pythonRegressor original model results - 0.043300
